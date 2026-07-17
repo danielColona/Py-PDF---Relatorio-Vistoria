@@ -1,0 +1,479 @@
+C:\HUB SEA
+    +---INFRA
+    |   +---ARCON
+    |   |       HUB_SEA-C1-PLC.jpg
+    |   |       HUB_SEA-C1-PLC_02.jpg
+    |   |       HUB_SEA-C3-PLC_1.jpg
+    |   |       HUB_SEA-INFRA-AC1_01.jpg
+    |   |       HUB_SEA-INFRA-AC1_02.jpg
+    |   |       HUB_SEA-INFRA-AC1_03.jpg
+    |   |       HUB_SEA-INFRA-AC1_04.jpg
+    |   |       HUB_SEA-INFRA-AC2_01.jpg
+    |   |       HUB_SEA-INFRA-AC2_02.jpg
+    |   |       HUB_SEA-INFRA-AC2_03.jpg
+    |   |       HUB_SEA-INFRA-AC2_04.jpg
+    |   |       HUB_SEA-INFRA-AC2_05.jpg
+    |   |       HUB_SEA-INFRA-AC2_6.jpg
+    |   |       HUB_SEA-INFRA-AC3_01.jpg
+    |   |       HUB_SEA-INFRA-AC3_02.jpg
+    |   |       HUB_SEA-INFRA-AC3_03.jpg
+    |   |       HUB_SEA-INFRA-AC3_04.jpg
+    |   |       HUB_SEA-INFRA-AC4_01.jpg
+    |   |       HUB_SEA-INFRA-AC4_02.jpg
+    |   |       HUB_SEA-INFRA-AC4_03.jpg
+    |   |       HUB_SEA-INFRA-AC4_04.jpg
+    |   |       HUB_SEA-INFRA-AC5_01.jpg
+    |   |       HUB_SEA-INFRA-AC5_02.jpg
+    |   |       HUB_SEA-INFRA-AC5_03.jpg
+    |   |       HUB_SEA-INFRA-AC6_01.jpg
+    |   |       HUB_SEA-INFRA-AC6_02.jpg
+    |   |       HUB_SEA-INFRA-AC6_03.jpg
+    |   |       HUB_SEA-INFRA-AC7_01.jpg
+    |   |       HUB_SEA-INFRA-AC7_03.jpg
+    |   |       HUB_SEA-INFRA-AC7_2.jpg
+    |   |       HUB_SEA-INFRA-AC8_01.jpg
+    |   |       HUB_SEA-INFRA-AC8_02.jpg
+    |   |       HUB_SEA-INFRA-AC8_03.jpg
+    |   |       HUB_SEA-INFRA-CD_1.jpg
+    |   |       HUB_SEA-INFRA-CD_2.jpg
+    |   |       HUB_SEA-INFRA-CD_3.jpg
+    |   |       HUB_SEA-INFRA-CD_4.jpg
+    |   |       
+    |   +---GMG
+    |   |       HUB_SEA-INFRA-Gerador01_01.jpg
+    |   |       HUB_SEA-INFRA-Gerador01_02.jpg
+    |   |       HUB_SEA-INFRA-Gerador01_03.jpg
+    |   |       HUB_SEA-INFRA-Gerador02_01.jpg
+    |   |       HUB_SEA-INFRA-Gerador02_02.jpg
+    |   |       HUB_SEA-INFRA-Gerador02_03.jpg
+    |   |       HUB_SEA-INFRA-Gerador02_04.jpg
+    |   |       HUB_SEA-INFRA-Gerador02_05.jpg
+    |   |       HUB_SEA-INFRA-Geradores.jpg
+    |   |       
+    |   +---QUADROS
+    |   |       HUB_SEA-C1-QC_1.jpg
+    |   |       HUB_SEA-C1-QDF_1.jpg
+    |   |       HUB_SEA-C1-QD_1.jpg
+    |   |       HUB_SEA-C1-QD_2.jpg
+    |   |       HUB_SEA-INFRA-AbrigoQDG.jpg
+    |   |       HUB_SEA-INFRA-AbrigoQDG_02.jpg
+    |   |       HUB_SEA-INFRA-AbrigoQTA_01.jpg
+    |   |       HUB_SEA-INFRA-AbrigoQTA_02.jpg
+    |   |       HUB_SEA-INFRA-AbrigoQTA_03.jpg
+    |   |       HUB_SEA-INFRA-AbrigoQTA_04.jpg
+    |   |       HUB_SEA-INFRA-AbrigoQTA_05.jpg
+    |   |       HUB_SEA-QGConcessionaria.jpg
+    |   |       
+    |   +---RETIFICADOR
+    |   |       HUB_SEA-INFRA-BAT_C4_1.jpg
+    |   |       HUB_SEA-INFRA-BAT_C4_2.jpg
+    |   |       HUB_SEA-INFRA-RET_C3_1.jpg
+    |   |       HUB_SEA-INFRA-RET_C3_2.jpg
+    |   |       HUB_SEA-INFRA-RET_C3_3.jpg
+    |   |       HUB_SEA-INFRA-RET_C3_4.jpg
+    |   |       
+    |   +---SDAI
+    |   |       HUB_SEA-C1-Cilindro01.jpg
+    |   |       HUB_SEA-C1-Cilindro02.jpg
+    |   |       HUB_SEA-C3-Cilindro01_1.jpg
+    |   |       HUB_SEA-C3-Cilindro01_2.jpg
+    |   |       HUB_SEA-C3-Cilindro02_1.jpg
+    |   |       
+    |   \---UPS
+    |           HUB_SEA-INFRA-UPS_C1_01.jpg
+    |           HUB_SEA-INFRA-UPS_C1_02.jpg
+    |           HUB_SEA-INFRA-UPS_C1_03.jpg
+    |           HUB_SEA-INFRA-UPS_C2_01.jpg
+    |           HUB_SEA-INFRA-UPS_C2_02.jpg
+    |           HUB_SEA-INFRA-UPS_C2_03.jpg
+    |           HUB_SEA-INFRA-UPS_C2_04.jpg
+    |           
+    +---ORGANIZAÃ├O
+    |   +---CONTEINER 01
+    |   |   |   HUB_SEA-C1-Acesso.jpg
+    |   |   |   HUB_SEA-C1-Corredor.jpg
+    |   |   |   HUB_SEA-C1-CorredorLateral.jpg
+    |   |   |   HUB_SEA-C1-EntreFila01.jpg
+    |   |   |   HUB_SEA-C1-EntreFila02.jpg
+    |   |   |   HUB_SEA-C1-EntreFila03.jpg
+    |   |   |   HUB_SEA-C1-EntreFila04.jpg
+    |   |   |   
+    |   |   +---FILA 01
+    |   |   |   |   HUB_SEA-C1-Fila01-Front.jpg
+    |   |   |   |   HUB_SEA-C1-Fila01-Front02.jpg
+    |   |   |   |   HUB_SEA-C1-Fila01-Rear.jpg
+    |   |   |   |   
+    |   |   |   +---RACK 01
+    |   |   |   |       HUB_SEA-C1-F1-R1 Device01.jpg
+    |   |   |   |       HUB_SEA-C1-F1-R1 Device02.jpg
+    |   |   |   |       HUB_SEA-C1-F1-R1 Device03.jpg
+    |   |   |   |       HUB_SEA-C1-F1-R1 PDU.jpg
+    |   |   |   |       HUB_SEA-C1-F1-Rack01 Front.jpg
+    |   |   |   |       HUB_SEA-C1-F1-Rack01 Rear.jpg
+    |   |   |   |       
+    |   |   |   +---RACK 02
+    |   |   |   |       HUB_SEA-C1-F1-R2 7100-SEANET01.jpg
+    |   |   |   |       HUB_SEA-C1-F1-R2 Device01.jpg
+    |   |   |   |       HUB_SEA-C1-F1-R2 Device02.jpg
+    |   |   |   |       HUB_SEA-C1-F1-R2 Device03.jpg
+    |   |   |   |       HUB_SEA-C1-F1-R2 PDU.jpg
+    |   |   |   |       HUB_SEA-C1-F1-Rack02 Front.jpg
+    |   |   |   |       HUB_SEA-C1-F1-Rack02 Rear.jpg
+    |   |   |   |       
+    |   |   |   \---RACK 03
+    |   |   |           HUB_SEA-C1-F1-R3 Device01.jpg
+    |   |   |           HUB_SEA-C1-F1-R3 Device02.jpg
+    |   |   |           HUB_SEA-C1-F1-R3 Device03.jpg
+    |   |   |           HUB_SEA-C1-F1-R3 Device04.jpg
+    |   |   |           HUB_SEA-C1-F1-R3 Device05.jpg
+    |   |   |           HUB_SEA-C1-F1-R3 PDU.jpg
+    |   |   |           HUB_SEA-C1-F1-Rack03 Front.jpg
+    |   |   |           HUB_SEA-C1-F1-Rack03 Rear.jpg
+    |   |   |           
+    |   |   +---FILA 02
+    |   |   |   |   HUB_SEA-C1-Fila02-Front.jpg
+    |   |   |   |   HUB_SEA-C1-Fila02-Rear.jpg
+    |   |   |   |   HUB_SEA-C1-Fila02-Rear02.jpg
+    |   |   |   |   
+    |   |   |   +---RACK 04
+    |   |   |   |       HUB_SEA-C1-F2-R4 Ciena Front01.jpg
+    |   |   |   |       HUB_SEA-C1-F2-R4 Ciena Front02.jpg
+    |   |   |   |       HUB_SEA-C1-F2-Rack04 Front.jpg
+    |   |   |   |       HUB_SEA-C1-F2-Rack04 Rear.jpg
+    |   |   |   |       
+    |   |   |   +---RACK 05
+    |   |   |   |       HUB_SEA-C1-F2-R5 NE8000 Front.jpg
+    |   |   |   |       HUB_SEA-C1-F2-R5 NE8000 Rear.jpg
+    |   |   |   |       HUB_SEA-C1-F2-Rack05 Front.jpg
+    |   |   |   |       
+    |   |   |   \---RACK 06
+    |   |   |           HUB_SEA-C1-F2-R6 Nokia Front01.jpg
+    |   |   |           HUB_SEA-C1-F2-R6 Nokia Front02.jpg
+    |   |   |           HUB_SEA-C1-F2-R6 Rear.jpg
+    |   |   |           HUB_SEA-C1-F2-Rack06 Front.jpg
+    |   |   |           
+    |   |   +---FILA 03
+    |   |   |   |   HUB_SEA-C1-Fila03-Front.jpg
+    |   |   |   |   HUB_SEA-C1-Fila03-Front02.jpg
+    |   |   |   |   HUB_SEA-C1-Fila03-Rear.jpg
+    |   |   |   |   
+    |   |   |   +---RACK 07
+    |   |   |   +---RACK 08
+    |   |   |   |       HUB_SEA-C1-F3-R8 VTAJCACMT01 Rear.jpg
+    |   |   |   |       HUB_SEA-C1-F3-R8-VTAJCACMT01.jpg
+    |   |   |   |       HUB_SEA-C1-F3-Rack08 Rear.jpg
+    |   |   |   |       HUB_SEA-C1-F3-Rack08-Front.jpg
+    |   |   |   |       
+    |   |   |   \---RACK 09
+    |   |   |           HUB_SEA-C1-F3-Rack09.jpg
+    |   |   |           
+    |   |   \---FILA 04
+    |   |       |   HUB_SEA-C1-Fila04-Front.jpg
+    |   |       |   HUB_SEA-C1-Fila04-Front02.jpg
+    |   |       |   HUB_SEA-C1-Fila04-Rear.jpg
+    |   |       |   
+    |   |       +---RACK 10
+    |   |       |       HUB_SEA-C1-F4-Rack10.jpg
+    |   |       |       
+    |   |       +---RACK 11
+    |   |       |       HUB_SEA-C1-F4-Rack11-.jpg
+    |   |       |       
+    |   |       \---RACK 12
+    |   +---CONTEINER 02
+    |   |   |   HUB_SEA-C2-Corredor.jpg
+    |   |   |   HUB_SEA-C2-DGO01.jpg
+    |   |   |   HUB_SEA-C2-DGO02.jpg
+    |   |   |   
+    |   |   +---FILA 01
+    |   |   |   |   HUB_SEA-C2-Fila01-Front.jpg
+    |   |   |   |   HUB_SEA-C2-Fila01-Rear.jpg
+    |   |   |   |   
+    |   |   |   +---RACK 01
+    |   |   |   |       HUB_SEA-C2-F1-R1-RFGW-NOW.jpg
+    |   |   |   |       HUB_SEA-C2-F1-R1-SWT-NOW.jpg
+    |   |   |   |       HUB_SEA-C2-F1-Rack01-Front.jpg
+    |   |   |   |       
+    |   |   |   +---RACK 02
+    |   |   |   |       HUB_SEA-C2-F1-R2-BST-RX-JCA.jpg
+    |   |   |   |       HUB_SEA-C2-F1-Rack02-Front.jpg
+    |   |   |   |       
+    |   |   |   \---RACK 03
+    |   |   |           HUB_SEA-C2-F1-R3-DGO-OLT.jpg
+    |   |   |           HUB_SEA-C2-F1-R3-SEAPRLAAOLT01.jpg
+    |   |   |           HUB_SEA-C2-F1-Rack03-Front.jpg
+    |   |   |           HUB_SEA-C3-F1-Rack03-PDU.jpg
+    |   |   |           
+    |   |   +---FILA 02
+    |   |   |   |   HUB_SEA-C2-Fila02-Front.jpg
+    |   |   |   |   HUB_SEA-C2-Fila02-Rear.jpg
+    |   |   |   |   
+    |   |   |   +---RACK 04
+    |   |   |   |       HUB_SEA-C2-F2-Rack04-Front.jpg
+    |   |   |   |       HUB_SEA-C2-F2-Rack04-Rear.jpg
+    |   |   |   |       
+    |   |   |   +---RACK 05
+    |   |   |   |       HUB_SEA-C2-F2-R5-BST-RX-AURORA.jpg
+    |   |   |   |       HUB_SEA-C2-F2-Rack05-Front.jpg
+    |   |   |   |       HUB_SEA-C2-F2-Rack05-Rear.jpg
+    |   |   |   |       
+    |   |   |   \---RACK 06
+    |   |   |           HUB_SEA-C2-F2-R6-BST-TX-AURORA.jpg
+    |   |   |           HUB_SEA-C2-F2-Rack06-Front.jpg
+    |   |   |           HUB_SEA-C2-F2-Rack06-Rear.jpg
+    |   |   |           
+    |   |   +---FILA 03
+    |   |   |   |   HUB_SEA-C2-Fila03-Front.jpg
+    |   |   |   |   HUB_SEA-C2-Fila03-Rear.jpg
+    |   |   |   |   
+    |   |   |   +---RACK 07
+    |   |   |   |       HUB_SEA-C2-F3-R7-BST-TX-JCA-Rear.jpg
+    |   |   |   |       HUB_SEA-C2-F3-R7-BST-TX-JCA.jpg
+    |   |   |   |       HUB_SEA-C2-F3-Rack07-Front.jpg
+    |   |   |   |       HUB_SEA-C2-F3-Rack07-Rear.jpg
+    |   |   |   |       
+    |   |   |   +---RACK 08
+    |   |   |   |       HUB_SEA-C2-F3-Rack08-Front.jpg
+    |   |   |   |       HUB_SEA-C2-F3-Rack08-Rear.jpg
+    |   |   |   |       
+    |   |   |   \---RACK 09
+    |   |   |           HUB_SEA-C2-F3-Rack09-Front.jpg
+    |   |   |           HUB_SEA-C2-F3-Rack09-Rear.jpg
+    |   |   |           
+    |   |   \---FILA 04
+    |   |       |   HUB_SEA-C2-Fila04-Front.jpg
+    |   |       |   HUB_SEA-C2-Fila04-Rear.jpg
+    |   |       |   
+    |   |       +---RACK 10
+    |   |       |       HUB_SEA-C2-F4-R10-SEADTCCMT03-Rear.jpg
+    |   |       |       HUB_SEA-C2-F4-R10-SEADTCCMT03.jpg
+    |   |       |       HUB_SEA-C2-F4-Rack10-Front.jpg
+    |   |       |       HUB_SEA-C2-F4-Rack10-Rear.jpg
+    |   |       |       
+    |   |       +---RACK 11
+    |   |       |       HUB_SEA-C2-F4-R11-VTAJCACMT02-Rear.jpg
+    |   |       |       HUB_SEA-C2-F4-R11-VTAJCACMT02.jpg
+    |   |       |       HUB_SEA-C2-F4-Rack11-Front.jpg
+    |   |       |       HUB_SEA-C2-F4-Rack11-Rear.jpg
+    |   |       |       
+    |   |       \---RACK 12
+    |   |               HUB_SEA-C2-F4-R12-SEADTCCMT07-Rear.jpg
+    |   |               HUB_SEA-C2-F4-R12-SEADTCCMT07.jpg
+    |   |               HUB_SEA-C2-F4-Rack12-Front.jpg
+    |   |               HUB_SEA-C2-F4-Rack12-Rear.jpg
+    |   |               
+    |   +---CONTEINER 03
+    |   |   |   HUB_SEA-C3-Corredor.jpg
+    |   |   |   HUB_SEA-C3-CorredorLateral.jpg
+    |   |   |   HUB_SEA-C3-DGO01.jpg
+    |   |   |   HUB_SEA-C3-DGO02.jpg
+    |   |   |   HUB_SEA-C3-DGO03.jpg
+    |   |   |   HUB_SEA-C3-EntreFila01.jpg
+    |   |   |   HUB_SEA-C3-EntreFila02.jpg
+    |   |   |   HUB_SEA-C3-EntreFila03.jpg
+    |   |   |   HUB_SEA-C3-EntreFila04.jpg
+    |   |   |   
+    |   |   +---FILA 01
+    |   |   |   |   HUB_SEA-C3-Fila01-Front.jpg
+    |   |   |   |   HUB_SEA-C3-Fila01-Front02.jpg
+    |   |   |   |   HUB_SEA-C3-Fila01-Rear.jpg
+    |   |   |   |   HUB_SEA-C3-Fila01-Rear02.jpg
+    |   |   |   |   
+    |   |   |   +---RACK 01
+    |   |   |   |       HUB_SEA-C3-F1-R1-SEADTCRTD01-Rear.jpg
+    |   |   |   |       HUB_SEA-C3-F1-R1-SEADTCRTD01.jpg
+    |   |   |   |       HUB_SEA-C3-F1-Rack01-Front.jpg
+    |   |   |   |       HUB_SEA-C3-F1-Rack01-Rear.jpg
+    |   |   |   |       
+    |   |   |   +---RACK 02
+    |   |   |   |       HUB_SEA-C3-F1-R2-SEADTCSWH06-Rear.jpg
+    |   |   |   |       HUB_SEA-C3-F1-R2-SEADTCSWH06.jpg
+    |   |   |   |       HUB_SEA-C3-F1-Rack02-Front.jpg
+    |   |   |   |       HUB_SEA-C3-F1-Rack02-Rear.jpg
+    |   |   |   |       
+    |   |   |   \---RACK 03
+    |   |   |           HUB_SEA-C3-F1-R3-GER.jpg
+    |   |   |           HUB_SEA-C3-F1-R3-PDU.jpg
+    |   |   |           HUB_SEA-C3-F1-Rack03-Front.jpg
+    |   |   |           HUB_SEA-C3-F1-Rack03-Rear.jpg
+    |   |   |           
+    |   |   +---FILA 02
+    |   |   |   |   HUB_SEA-C3-Fila02-Front.jpg
+    |   |   |   |   HUB_SEA-C3-Fila02-Front02.jpg
+    |   |   |   |   HUB_SEA-C3-Fila02-Rear.jpg
+    |   |   |   |   HUB_SEA-C3-Fila02-Rear02.jpg
+    |   |   |   |   
+    |   |   |   +---RACK 04
+    |   |   |   |       HUB_SEA-C3-F2-Rack04-Front.jpg
+    |   |   |   |       HUB_SEA-C3-F2-Rack04-Rear.jpg
+    |   |   |   |       
+    |   |   |   +---RACK 05
+    |   |   |   |       HUB_SEA-C3-F2-Rack05-Front.jpg
+    |   |   |   |       HUB_SEA-C3-F2-Rack05-Rear.jpg
+    |   |   |   |       
+    |   |   |   \---RACK 06
+    |   |   |           HUB_SEA-C3-F2-Rack06-Front.jpg
+    |   |   |           HUB_SEA-C3-F2-Rack06-Rear.jpg
+    |   |   |           
+    |   |   +---FILA 03
+    |   |   |   |   HUB_SEA-C3-Fila03-Front.jpg
+    |   |   |   |   HUB_SEA-C3-Fila03-Front02.jpg
+    |   |   |   |   HUB_SEA-C3-Fila03-Rear.jpg
+    |   |   |   |   HUB_SEA-C3-Fila03-Rear02.jpg
+    |   |   |   |   
+    |   |   |   +---RACK 07
+    |   |   |   |       HUB_SEA-C3-F3-Rack07-Front.jpg
+    |   |   |   |       HUB_SEA-C3-F3-Rack07-Rear.jpg
+    |   |   |   |       
+    |   |   |   +---RACK 08
+    |   |   |   |       HUB_SEA-C3-F3-Rack08-Front.jpg
+    |   |   |   |       HUB_SEA-C3-F3-Rack08-Rear.jpg
+    |   |   |   |       
+    |   |   |   \---RACK 09
+    |   |   |           HUB_SEA-C3-F3-Rack09-Front.jpg
+    |   |   |           HUB_SEA-C3-F3-Rack09-Rear.jpg
+    |   |   |           
+    |   |   \---FILA 04
+    |   |       |   HUB_SEA-C3-Fila04-Front.jpg
+    |   |       |   HUB_SEA-C3-Fila04-Front02.jpg
+    |   |       |   HUB_SEA-C3-Fila04-Rear.jpg
+    |   |       |   HUB_SEA-C3-Fila04-Rear02.jpg
+    |   |       |   
+    |   |       +---RACK 10
+    |   |       |       HUB_SEA-C3-F4-R10-SEADTCCMT08-Rear.jpg
+    |   |       |       HUB_SEA-C3-F4-R10-SEADTCCMT08.jpg
+    |   |       |       HUB_SEA-C3-F4-Rack10-Front.jpg
+    |   |       |       HUB_SEA-C3-F4-Rack10-Rear.jpg
+    |   |       |       
+    |   |       +---RACK 11
+    |   |       |       HUB_SEA-C3-F4-Rack11-Front.jpg
+    |   |       |       HUB_SEA-C3-F4-Rack11-Rear.jpg
+    |   |       |       
+    |   |       \---RACK 12
+    |   |               HUB_SEA-C3-F4-R12-SEADTCCMT02-Rear.jpg
+    |   |               HUB_SEA-C3-F4-R12-SEADTCCMT02.jpg
+    |   |               HUB_SEA-C3-F4-Rack12-Front.jpg
+    |   |               HUB_SEA-C3-F4-Rack12-Rear.jpg
+    |   |               
+    |   \---CONTEINER 04
+    |       |   HUB_SEA-C4-Acesso.jpg
+    |       |   HUB_SEA-C4-Corredor.jpg
+    |       |   
+    |       +---FILA 01
+    |       |   |   HUB_SEA-C4-Fila01-Front.jpg
+    |       |   |   HUB_SEA-C4-Fila01-Rear.jpg
+    |       |   |   
+    |       |   +---RACK 01
+    |       |   +---RACK 02
+    |       |   \---RACK 03
+    |       +---FILA 02
+    |       |   |   HUB_SEA-C4-Fila02-Front.jpg
+    |       |   |   HUB_SEA-C4-Fila02-Rear.jpg
+    |       |   |   
+    |       |   +---RACK 04
+    |       |   +---RACK 05
+    |       |   \---RACK 06
+    |       +---FILA 03
+    |       |   |   HUB_SEA-C4-Fila03-Front.jpg
+    |       |   |   HUB_SEA-C4-Fila03-Rear.jpg
+    |       |   |   
+    |       |   +---RACK 07
+    |       |   +---RACK 08
+    |       |   \---RACK 09
+    |       |           HUB_SEA-C4-F3-Rack09-Front.jpg
+    |       |           
+    |       \---FILA 04
+    |           |   HUB_SEA-C4-Fila04-Front.jpg
+    |           |   HUB_SEA-C4-Fila04-Rear.jpg
+    |           |   
+    |           +---RACK 10
+    |           |       HUB_SEA-C4-F4-R10-BST-PTV-SEA-03.jpg
+    |           |       HUB_SEA-C4-F4-Rack10-Front.jpg
+    |           |       HUB_SEA-C4-F4-Rack10-Rear.jpg
+    |           |       
+    |           +---RACK 11
+    |           |       HUB_SEA-C4-F4-R11-RFGW SEA-JCA.jpg
+    |           |       HUB_SEA-C4-F4-Rack11-Front.jpg
+    |           |       HUB_SEA-C4-F4-Rack11-Rear.jpg
+    |           |       
+    |           \---RACK 12
+    |                   HUB_SEA-C4-F3-Rack12-Front.jpg
+    |                   HUB_SEA-C4-F4-Rack12-Rear.jpg
+    |                   
+    +---SEGURANÃA
+    |   +---FACHADA
+    |   |       HUB_SEA-Fachada01.jpg
+    |   |       HUB_SEA-Fachada01x.jpg
+    |   |       HUB_SEA-Fachada02.jpg
+    |   |       HUB_SEA-Fachada03.jpg
+    |   |       HUB_SEA-Fachada04.jpg
+    |   |       HUB_SEA-Fachada05.jpg
+    |   |       
+    |   \---PORTA ACESSO
+    |           HUB_SEA-Acesso01.jpg
+    |           HUB_SEA-SEG-AcessoEscritorio.jpg
+    |           HUB_SEA-SEG-AcessoPortao.jpg
+    |           HUB_SEA-SEG-AcessoPortao02.jpg
+    |           HUB_SEA-SEG-C1-Acesso_1.jpg
+    |           HUB_SEA-SEG-C1-Acesso_2.jpg
+    |           HUB_SEA-SEG-C1-Acesso_3.jpg
+    |           HUB_SEA-SEG-C4-Acesso_1.jpg
+    |           HUB_SEA-SEG-C4-Acesso_2.jpg
+    |           HUB_SEA-SEG-C4-Acesso_3.jpg
+    |           HUB_SEA-SEG-PortaAcessoC1.jpg
+    |           HUB_SEA-SEG-PortaAcessoC4.jpg
+    |           
+    \---ZELADORIA
+        +---AMBIENTE EXTERNO
+        |       HUB_SEA-ACESSO C4 RAMPA01.jpg
+        |       HUB_SEA-Acesso01.jpg
+        |       HUB_SEA-INFRA-AbrigoFibra.jpg
+        |       HUB_SEA-INFRA-AbrigoFibra_02.jpg
+        |       HUB_SEA-INFRA-AbrigoFibra_03.jpg
+        |       HUB_SEA-INFRA-AbrigoFibra_04.jpg
+        |       HUB_SEA-INFRA-PortaAcessoC4.jpg
+        |       HUB_SEA-Patio01.jpg
+        |       HUB_SEA-Patio02.jpg
+        |       HUB_SEA-Patio03.jpg
+        |       HUB_SEA-Patio04.jpg
+        |       HUB_SEA-Patio05.jpg
+        |       HUB_SEA-Patio06.jpg
+        |       HUB_SEA-Patio07.jpg
+        |       HUB_SEA-Patio08.jpg
+        |       HUB_SEA-Patio09.jpg
+        |       HUB_SEA-Patio10.jpg
+        |       HUB_SEA-Patio11.jpg
+        |       HUB_SEA-Patio12.jpg
+        |       HUB_SEA-Patio13.jpg
+        |       HUB_SEA-Patio14.jpg
+        |       HUB_SEA-Patio15.jpg
+        |       HUB_SEA-Patio16.jpg
+        |       HUB_SEA-Patio17.jpg
+        |       HUB_SEA-Patio18.jpg
+        |       HUB_SEA-Patio19.jpg
+        |       HUB_SEA-Patio20.jpg
+        |       HUB_SEA-Patio21.jpg
+        |       HUB_SEA-Patio22.jpg
+        |       HUB_SEA-Patio23.jpg
+        |       HUB_SEA-Patio24.jpg
+        |       HUB_SEA-Patio25.jpg
+        |       HUB_SEA-Patio26.jpg
+        |       HUB_SEA-Patio27.jpg
+        |       HUB_SEA-Patio28.jpg
+        |       HUB_SEA-Patio29.jpg
+        |       HUB_SEA-Patio30.jpg
+        |       HUB_SEA-Patio31.jpg
+        |       
+        \---AMBIENTE INTERNO
+                HUB_SEA-Guarita01.jpg
+                HUB_SEA-Guarita02.jpg
+                HUB_SEA-Guarita03.jpg
+                HUB_SEA-Guarita04.jpg
+                HUB_SEA-Guarita05.jpg
+                HUB_SEA-WC01.jpg
+                HUB_SEA-WC02.jpg
+                HUB_SEA-ZEL-Escritorio01.jpg
+                HUB_SEA-ZEL-Escritorio02.jpg
+                HUB_SEA-ZEL-Escritorio03.jpg
+                HUB_SEA-ZEL-Escritorio04.jpg
+                HUB_SEA-ZEL-Escritorio05.jpg
+                HUB_SEA-ZEL-Escritorio06.jpg
