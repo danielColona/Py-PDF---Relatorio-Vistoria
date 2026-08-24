@@ -165,7 +165,9 @@ class RelatorioPDF:
         canvas.restoreState()
 
     # -----------------------------------------------------
-    def gerar(self):
+    def gerar(self, caminho_saida=None):
+
+        caminho_saida = caminho_saida or self.config.arquivo_pdf
 
         print(f"Lendo pasta do site: {self.config.pasta_site}")
         secoes = ler_estrutura(self.config.pasta_site)
@@ -183,7 +185,7 @@ class RelatorioPDF:
         print()
 
         doc = _DocTemplate(
-            str(self.config.arquivo_pdf),
+            str(caminho_saida),
             pagesize=layout.PAGINA,
             leftMargin=layout.MARGEM_ESQUERDA,
             rightMargin=layout.MARGEM_DIREITA,
@@ -306,5 +308,5 @@ class RelatorioPDF:
         print("PDF gerado com sucesso!")
         print(f"Seções encontradas: {len(secoes)}")
         print(f"Total de fotos:     {total_fotos}")
-        print(f"Arquivo:            {self.config.arquivo_pdf}")
+        print(f"Arquivo:            {caminho_saida}")
         print("=" * 60)

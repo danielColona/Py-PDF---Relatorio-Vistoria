@@ -259,12 +259,19 @@ def _layout_1(fotos, categoria, config, largura, altura, progresso):
 
 def _layout_2(fotos, categoria, config, largura, altura, progresso):
     gap = layout.ESPACO_ENTRE_FOTOS
-    largura_cel = (largura - gap) / 2
+
+    # Fotos retrato costumam ser bem estreitas/altas e já batem no teto de
+    # altura disponível bem antes de usar toda a largura de uma coluna de
+    # meia página — sobrava muito vazio nas laterais. Usa a mesma largura
+    # de coluna do Template 05 (3 fotos) como referência e centraliza o
+    # par na página, em vez de esticar a coluna pra metade da largura.
+    largura_cel = (largura - 2 * gap) / 3
 
     linha = [_celula(f, categoria, config, largura_cel, altura, progresso) for f in fotos]
 
     tabela = Table([linha], colWidths=[largura_cel] * 2, rowHeights=[altura])
     tabela.setStyle(TableStyle(_estilo_base(gap)))
+    tabela.hAlign = "CENTER"
     return tabela
 
 
